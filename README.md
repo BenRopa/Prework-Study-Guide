@@ -7,7 +7,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - In order to gain a better understanding of CSS, git, JavaScript, and HTML we created a webpage which highlights some of our key notes. 
 - We built this project in order to practice using GitHub, the git flow, and other important functions for the course. 
 - Our application solves our issue of taking notes in too many different places. We now have a clean, polished, somewhat interactive page to display some of our prework study guide notes. 
-- Prior to working with git, CSS, JavaScript, and HTML, I did not recognize how these tools interact with one another. I now understanding that HTML makes up the layout of a website, along with text and written content. Git is a version control system that allows us to navigate through our code repository locally. JavaScript is used in order to create interactive effects in web browsers- it will enable us to create more dynamic applications that better the user experience. CSS or cascading style sheets is used to style our web page's font, color, size, and spacing of content. 
+- Prior to working with git, CSS, JavaScript, and HTML, I did not recognize how these tools interact with one another. I now understand that HTML makes up the layout of a website, along with text and written content. Git is a version control system that allows us to navigate through our code repository locally. JavaScript is used in order to create interactive effects in web browsers- it will enable us to create more dynamic applications that better the user experience. CSS or cascading style sheets is used to style our web page's font, color, size, and spacing of content. 
 
 ## Installation
 
